@@ -8,3 +8,5 @@ O seguinte material auxiliar encontra-se nesse repositório:
 - [Exemplos de como carregar dados na linha de comando com a ferramenta `shp2pgsql`](./carga-dados.md)
 
 - [Exemplos de consultas da aula](./consultas.md)
+  
+- Livro online: [Bancos de Dados Geográficos](https://gqueiroz.github.io/bdg/)
