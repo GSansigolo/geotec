@@ -36,8 +36,10 @@ Abordagem sobre a proteção de comunidades tradicionais, assentamentos e a gest
 
 ## Aula 03 - Conservação e Monitoramento de Desmatamento
 
-Análise de Unidades de Conservação e o uso de sensoriamento remoto (PRODES) para verificação de supressão de vegetação nativa.
+Análise de Unidades de Conservação, embargos e o uso de sensoriamento remoto (PRODES) para verificação de supressão de vegetação nativa.
 
 **Jupyter Notebooks:**
 - [Impedimentos-3-Unidades_de_Conservação.ipynb](aula-03/Impedimentos-3-Unidades_de_Conservação.ipynb)
 - [Impedimentos-8-Desmatamento.ipynb](aula-03/Impedimentos-8-Desmatamento.ipynb)
+- [Impedimentos-9-Embargos.ipynb](aula-03/Impedimentos_9_Embargos.ipynb)
+
