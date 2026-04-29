@@ -22,4 +22,4 @@ Nesta aula, focamos na plataforma é o Web Land Trajectory Service (WLTS). Dado 
 
 **Jupyter Notebooks:**
 
-- [uso_e_cobertura_terra.ipynb.ipynb](aula-01/uso_e_cobertura_terra.ipynb.ipynb)
+- [uso_e_cobertura_terra.ipynb](aula-01/uso_e_cobertura_terra.ipynb)
